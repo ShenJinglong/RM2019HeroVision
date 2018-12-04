@@ -1,0 +1,3 @@
+/home/sjinglong/桌面/RM2018Vision/extra/train/build/CMakeFiles/edit_cache.dir
+/home/sjinglong/桌面/RM2018Vision/extra/train/build/CMakeFiles/rebuild_cache.dir
+/home/sjinglong/桌面/RM2018Vision/extra/train/build/CMakeFiles/armor_svm.dir
